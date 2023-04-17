@@ -80,7 +80,7 @@ a, a:hover {
   overflow: hidden;
   position: relative;
   z-index: 4;
-  box-shadow: 0px 5px 50px 0px #ddff00, 0px 0px 0px 7px rgba(185, 255, 46, 0.5);
+  box-shadow: 0px 5px 50px 0px #ff6600, 0px 0px 0px 7px rgba(255, 230, 42, 0.5);
 }
 @media screen and (max-width: 576px) {
   .profile-card__img {
@@ -105,7 +105,7 @@ a, a:hover {
 .profile-card__name {
   font-weight: 700;
   font-size: 24px;
-  color: #ffc108fc;
+  color: #f76510fc;
   margin-bottom: 15px;
 }
 .profile-card__txt {
